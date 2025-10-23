@@ -1,0 +1,13 @@
+{
+  "meetings": 12,
+  "chats": 34,
+  "onedrive": {
+    "viewed": 20,
+    "edited": 5,
+    "shared": 3
+  },
+  "quota": {
+    "used": 850,
+    "limit": 1000
+  }
+}
