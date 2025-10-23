@@ -40,9 +40,18 @@ README.md                      # Project documentation
 ---
 
 ## 🖥️ Example Output
+```text
+=== Weekly Report ===
+Meetings: 12
+Chats: 34
+OneDrive Viewed: 20
+OneDrive Edited: 5
+OneDrive Shared: 3
 
-=== Weekly Report === Meetings: 12 Chats: 34 OneDrive Viewed: 20 OneDrive Edited: 5 OneDrive Shared: 3
-=== Quota Monitoring === Used: 850/1000 (85.0%) ⚠️ Warning: Quota usage exceeded threshold! Consider scaling or cleanup.
+=== Quota Monitoring ===
+Used: 850/1000 (85.0%)
+⚠️ Warning: Quota usage exceeded threshold! Consider scaling or cleanup.
+```
 
 ---
 
