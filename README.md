@@ -28,13 +28,12 @@ This repository is designed as a portfolio example to demonstrate workflow autom
 ---
 
 ## 📂 Project Structure
-.github/workflows/report.yml        # GitHub Actions workflow  
-    src/main.py                     # Main Python script  
-    src/sample_data.json            # Demo data for reporting 
-.env.example                   
-# Example environment variables .gitignore                     
-# Ignore sensitive/local files README.md                      
-# Project documentation
+  .github/workflows/report.yml        # GitHub Actions workflow  
+      src/main.py                     # Main Python script  
+      src/sample_data.json            # Demo data for reporting 
+  .env.example                        # Example environment variables 
+  .gitignore                          # Ignore sensitive/local files 
+  README.md                           # Project documentation
 
 ---
 
